@@ -1,5 +1,5 @@
 import resume from "../assets/pdf/resume.pdf";
-import LandingImg from "../assets/png/LandingImg.png";
+import LandingImg from "../assets/png/LandingImg2.png";
 
 export const headerData = {
   name: "Manolis Ka",
